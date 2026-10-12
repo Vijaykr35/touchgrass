@@ -1,0 +1,16 @@
+{
+  "name": "TouchGrass",
+  "short_name": "TouchGrass",
+  "description": "An offline-first ambient outdoor quest guide powered by local open-weight AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F2E8",
+  "theme_color": "#244B36",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
